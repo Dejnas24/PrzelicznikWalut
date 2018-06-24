@@ -1,0 +1,35 @@
+C:\Users\Andrzej\OneDrive\C# nauka programowania\Aplikacja_przelicznikwalut\Aplikacja_przelicznikwalut\bin\Debug\Aplikacja_przelicznikwalut.exe.config
+C:\Users\Andrzej\OneDrive\C# nauka programowania\Aplikacja_przelicznikwalut\Aplikacja_przelicznikwalut\bin\Debug\Aplikacja_przelicznikwalut.exe
+C:\Users\Andrzej\OneDrive\C# nauka programowania\Aplikacja_przelicznikwalut\Aplikacja_przelicznikwalut\bin\Debug\Aplikacja_przelicznikwalut.pdb
+C:\Users\Andrzej\OneDrive\C# nauka programowania\Aplikacja_przelicznikwalut\Aplikacja_przelicznikwalut\obj\Debug\Aplikacja_przelicznikwalut.csprojResolveAssemblyReference.cache
+C:\Users\Andrzej\OneDrive\C# nauka programowania\Aplikacja_przelicznikwalut\Aplikacja_przelicznikwalut\obj\Debug\Aplikacja_przelicznikwalut.Form1.resources
+C:\Users\Andrzej\OneDrive\C# nauka programowania\Aplikacja_przelicznikwalut\Aplikacja_przelicznikwalut\obj\Debug\Aplikacja_przelicznikwalut.Properties.Resources.resources
+C:\Users\Andrzej\OneDrive\C# nauka programowania\Aplikacja_przelicznikwalut\Aplikacja_przelicznikwalut\obj\Debug\Aplikacja_przelicznikwalut.csproj.GenerateResource.Cache
+C:\Users\Andrzej\OneDrive\C# nauka programowania\Aplikacja_przelicznikwalut\Aplikacja_przelicznikwalut\obj\Debug\Aplikacja_przelicznikwalut.csproj.CoreCompileInputs.cache
+C:\Users\Andrzej\OneDrive\C# nauka programowania\Aplikacja_przelicznikwalut\Aplikacja_przelicznikwalut\obj\Debug\Aplikacja_przelicznikwalut.exe
+C:\Users\Andrzej\OneDrive\C# nauka programowania\Aplikacja_przelicznikwalut\Aplikacja_przelicznikwalut\obj\Debug\Aplikacja_przelicznikwalut.pdb
+C:\Users\Andrzej\OneDrive\C# nauka programowania\Aplikacja_przelicznikwalut\Aplikacja_przelicznikwalut\obj\Debug\Aplikacja_przelicznikwalut.O_Programie.resources
+C:\Users\Andrzej\Desktop\Aplikacja_przelicznikwalut\Aplikacja_przelicznikwalut\obj\Debug\Aplikacja_przelicznikwalut.csprojResolveAssemblyReference.cache
+C:\Users\Andrzej\Desktop\Aplikacja_przelicznikwalut\Aplikacja_przelicznikwalut\obj\Debug\Aplikacja_przelicznikwalut.O_Programie.resources
+C:\Users\Andrzej\Desktop\Aplikacja_przelicznikwalut\Aplikacja_przelicznikwalut\obj\Debug\Aplikacja_przelicznikwalut.Form1.resources
+C:\Users\Andrzej\Desktop\Aplikacja_przelicznikwalut\Aplikacja_przelicznikwalut\obj\Debug\Aplikacja_przelicznikwalut.Properties.Resources.resources
+C:\Users\Andrzej\Desktop\Aplikacja_przelicznikwalut\Aplikacja_przelicznikwalut\obj\Debug\Aplikacja_przelicznikwalut.csproj.GenerateResource.Cache
+C:\Users\Andrzej\Desktop\Aplikacja_przelicznikwalut\Aplikacja_przelicznikwalut\obj\Debug\Aplikacja_przelicznikwalut.csproj.CoreCompileInputs.cache
+C:\Users\Andrzej\Desktop\Aplikacja_przelicznikwalut\Aplikacja_przelicznikwalut\obj\Debug\Aplikacja_przelicznikwalut.exe
+C:\Users\Andrzej\Desktop\Aplikacja_przelicznikwalut\Aplikacja_przelicznikwalut\obj\Debug\Aplikacja_przelicznikwalut.pdb
+C:\Users\Andrzej\Desktop\Aplikacja_przelicznikwalut\Aplikacja_przelicznikwalut\bin\Debug\Aplikacja_przelicznikwalut.exe.config
+C:\Users\Andrzej\Desktop\Aplikacja_przelicznikwalut\Aplikacja_przelicznikwalut\bin\Debug\Aplikacja_przelicznikwalut.exe
+C:\Users\Andrzej\Desktop\Aplikacja_przelicznikwalut\Aplikacja_przelicznikwalut\bin\Debug\Aplikacja_przelicznikwalut.pdb
+C:\Users\Andrzej\Desktop\Aplikacja_przelicznikwalut\Aplikacja_przelicznikwalut\obj\Debug\Aplikacja_przelicznikwalut.OProgramie.resources
+K:\Aplikacja na zxaliczenie .NET(Przelicznik walut)\Aplikacja_przelicznikwalut\Aplikacja_przelicznikwalut\bin\Debug\Aplikacja_przelicznikwalut.exe.config
+K:\Aplikacja na zxaliczenie .NET(Przelicznik walut)\Aplikacja_przelicznikwalut\Aplikacja_przelicznikwalut\bin\Debug\Aplikacja_przelicznikwalut.exe
+K:\Aplikacja na zxaliczenie .NET(Przelicznik walut)\Aplikacja_przelicznikwalut\Aplikacja_przelicznikwalut\bin\Debug\Aplikacja_przelicznikwalut.pdb
+K:\Aplikacja na zxaliczenie .NET(Przelicznik walut)\Aplikacja_przelicznikwalut\Aplikacja_przelicznikwalut\obj\Debug\Aplikacja_przelicznikwalut.csprojResolveAssemblyReference.cache
+K:\Aplikacja na zxaliczenie .NET(Przelicznik walut)\Aplikacja_przelicznikwalut\Aplikacja_przelicznikwalut\obj\Debug\Aplikacja_przelicznikwalut.O_Programie.resources
+K:\Aplikacja na zxaliczenie .NET(Przelicznik walut)\Aplikacja_przelicznikwalut\Aplikacja_przelicznikwalut\obj\Debug\Aplikacja_przelicznikwalut.Form1.resources
+K:\Aplikacja na zxaliczenie .NET(Przelicznik walut)\Aplikacja_przelicznikwalut\Aplikacja_przelicznikwalut\obj\Debug\Aplikacja_przelicznikwalut.OProgramie.resources
+K:\Aplikacja na zxaliczenie .NET(Przelicznik walut)\Aplikacja_przelicznikwalut\Aplikacja_przelicznikwalut\obj\Debug\Aplikacja_przelicznikwalut.Properties.Resources.resources
+K:\Aplikacja na zxaliczenie .NET(Przelicznik walut)\Aplikacja_przelicznikwalut\Aplikacja_przelicznikwalut\obj\Debug\Aplikacja_przelicznikwalut.csproj.GenerateResource.cache
+K:\Aplikacja na zxaliczenie .NET(Przelicznik walut)\Aplikacja_przelicznikwalut\Aplikacja_przelicznikwalut\obj\Debug\Aplikacja_przelicznikwalut.csproj.CoreCompileInputs.cache
+K:\Aplikacja na zxaliczenie .NET(Przelicznik walut)\Aplikacja_przelicznikwalut\Aplikacja_przelicznikwalut\obj\Debug\Aplikacja_przelicznikwalut.exe
+K:\Aplikacja na zxaliczenie .NET(Przelicznik walut)\Aplikacja_przelicznikwalut\Aplikacja_przelicznikwalut\obj\Debug\Aplikacja_przelicznikwalut.pdb
